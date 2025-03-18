@@ -4,6 +4,6 @@ public with sharing class MyFirstApex {
     }
 
     static void handleFirstMethod(){
-        System.debug('Hello from Salesforce Org to VS Code');
+        System.debug('Hello from Salesforce Org to VisualStudio Code');
     }
 }
